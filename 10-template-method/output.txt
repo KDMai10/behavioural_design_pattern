@@ -1,0 +1,32 @@
+=== TEMPLATE METHOD PATTERN: Student Report Generation ===
+
+========================
+STUDENT REPORT
+========================
+Student ID: 2026-001
+Name: Juan Dela Cruz
+Program: BSIT
+========================
+END OF REPORT
+========================
+
+========================
+GRADE REPORT
+========================
+Programming 2: 1.50
+Database: 1.75
+Networking: 2.00
+========================
+END OF REPORT
+========================
+
+========================
+ENROLLMENT REPORT
+========================
+Term: 1st Semester 2026-2027
+Status: Enrolled
+Total Units: 21
+========================
+END OF REPORT
+========================
+

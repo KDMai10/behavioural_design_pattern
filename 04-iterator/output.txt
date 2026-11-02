@@ -1,0 +1,6 @@
+=== ITERATOR PATTERN: Student Record Collection ===
+
+Student List
+2026-001 - Juan
+2026-002 - Maria
+2026-003 - Pedro

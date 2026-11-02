@@ -1,0 +1,11 @@
+=== STRATEGY PATTERN: Grade Calculation System ===
+
+Strategy: Simple Average
+Result: 88.50
+
+Strategy: Weighted Average
+Result: 91.25
+
+Strategy: Transmuted Grade
+Result: 1.75
+

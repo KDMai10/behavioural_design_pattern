@@ -1,0 +1,20 @@
+=== OBSERVER PATTERN: Grade Notification System ===
+
+Grade updated: 1.75
+Student Portal:
+New grade posted.
+Email Notification:
+Your grade has been updated.
+Parent Notification:
+Student grade has been posted.
+
+--- Challenge: adding a new observer (SMS) ---
+Grade updated: 1.50
+Student Portal:
+New grade posted.
+Email Notification:
+Your grade has been updated.
+Parent Notification:
+Student grade has been posted.
+SMS Notification:
+Your new grade is 1.50.

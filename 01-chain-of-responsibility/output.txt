@@ -1,0 +1,20 @@
+=== CHAIN OF RESPONSIBILITY: Student Request Processing ===
+
+Request: Transcript of Records
+Student Affairs: Cannot process request.
+Registrar: Processing Transcript of Records...
+
+Request: Good Moral Certificate
+Student Affairs: Processing Good Moral Certificate...
+
+Request: Certificate of Enrollment
+Student Affairs: Cannot process request.
+Registrar: Cannot process request.
+Finance: Processing Certificate of Enrollment...
+
+Request: Student ID Concern
+Student Affairs: Cannot process request.
+Registrar: Cannot process request.
+Finance: Cannot process request.
+ICT: Processing Student ID Concern...
+

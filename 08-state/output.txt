@@ -1,0 +1,27 @@
+=== STATE PATTERN: Student Enrollment Status ===
+
+Current State: Applicant
+Action: Enroll
+Result:
+Student must complete pre-assessment first.
+
+Current State: Pre-Assessed
+Action: Enroll
+Result:
+Student successfully enrolled.
+
+Current State: Enrolled
+Action: Enroll
+Result:
+Student is already enrolled.
+
+Current State: Dropped
+Action: Enroll
+Result:
+Dropped students must re-apply before enrolling.
+
+Current State: Graduated
+Action: Enroll
+Result:
+Graduated students cannot enroll.
+

@@ -1,0 +1,7 @@
+=== MEDIATOR PATTERN: Student Communication System ===
+
+Juan: Hello everyone!
+Maria receives:
+Juan: Hello everyone!
+Pedro receives:
+Juan: Hello everyone!

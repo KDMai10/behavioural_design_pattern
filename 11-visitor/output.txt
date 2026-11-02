@@ -1,0 +1,20 @@
+=== VISITOR PATTERN: Student Record Operations ===
+
+CSV Export Visitor
+Student exported: Juan,3
+Faculty exported: Dr. Santos,12
+Alumni exported: Maria,2020
+
+Report Visitor
+Report: Student Juan, Year 3
+Report: Faculty Dr. Santos, 12 years of service
+Report: Alumni Maria, Batch 2020
+
+Statistics Visitor
+Students: 1, Faculty: 1, Alumni: 1
+
+PDF Report Visitor (challenge)
+PDF generated for Student Juan.
+PDF generated for Faculty Dr. Santos.
+PDF generated for Alumni Maria.
+

@@ -1,0 +1,21 @@
+=== MEMENTO PATTERN: Student Profile Undo System ===
+
+Original Profile:
+Name: Juan Dela Cruz
+Program: BSIT
+Year: 3
+Email: juan@school.edu
+
+Current Profile:
+Name: Juan Dela Cruz
+Program: BSCS
+Year: 4
+Email: juan@school.edu
+
+Undo...
+
+Restored Profile:
+Name: Juan Dela Cruz
+Program: BSIT
+Year: 3
+Email: juan@school.edu

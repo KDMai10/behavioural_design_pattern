@@ -1,0 +1,18 @@
+=== INTERPRETER PATTERN: Student Search/Query System ===
+
+Expression:
+PROGRAM = "BSIT"
+Result: TRUE
+
+Expression:
+YEAR = 4
+Result: TRUE
+
+Expression:
+PROGRAM = "BSIT" AND YEAR = 4
+Result: TRUE
+
+Expression:
+PROGRAM = "BSIT" OR PROGRAM = "BSCS"
+Result: TRUE
+

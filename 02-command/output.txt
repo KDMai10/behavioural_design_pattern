@@ -1,0 +1,19 @@
+=== COMMAND PATTERN: Student System Actions ===
+
+Executing: Enroll Student
+Student successfully enrolled.
+Executing: Drop Subject
+Subject successfully dropped.
+
+--- Undo challenge ---
+Undoing: Drop Subject
+Subject restored.
+Undoing: Enroll Student
+Enrollment reversed.
+Nothing to undo.
+
+--- Other commands ---
+Executing: Print Registration
+Registration form printed.
+Executing: Logout
+Student logged out.
